@@ -26,12 +26,12 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "MarzBotzོ" //namabot kalian
 global.ownername= "DamarBotzོ ×፝֟͜×" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
+global.myweb ="https://youtu.be/pPdvwO37dMo" //bebas asal jan hapus
 global.youtube = "https://youtu.be/pPdvwO37dMo" //bebas asal jan hapus
 global.github = "https://youtube.com/c/DAMARYT" //bebas
 global.email = "sofiangaming95@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.timezone = 'Asia/Jakarta' //  timezone wib
+global.timezone = 'Asia/Lampung' //  timezone wib
 global.premium = ['6285896677508'] //premium user
 global.owner = ["6285896677508","62887437035456"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6285896677508" // nomor wa kalian
