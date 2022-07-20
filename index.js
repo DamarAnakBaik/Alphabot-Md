@@ -3809,7 +3809,7 @@ case 'google': {
 4. ${prefix}foliokanan
 
 Contoh:
-${prefix}nuliskiri Subscribe Ya https://youtube.com/c/zeeoneofc`)
+${prefix}nuliskiri Subscribe Ya https://youtube.com/c/DAMARYT`)
             break
         case 'nuliskiri': {
             if (text.length < 2) return reply(lang.KisahNabi(prefix, command, 'Support Bot WhatsApp'))
