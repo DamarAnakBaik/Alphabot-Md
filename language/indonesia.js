@@ -619,7 +619,7 @@ saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu MarzBotz :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -1502,17 +1502,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ ${prefix}sound70
 
 ╭─❒ 「 TqTo 」 
-├ My God
-├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
-├ Penyedia Module
-╰❒ And All Support
+├ DamarBotz
     `
 }
 
@@ -1557,10 +1547,10 @@ exports.leave = () =>{
 Goodbye`
 }
 exports.source = () =>{
-return`*------「 SOURCE CODE 」 ------*
+return`*------「 SCRIPT 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Base : https://youtube.com/c/DAMARYT
+Recode : https://youtu.be/pPdvwO37dMo
 `
 }
 exports.tos = (ownernomer) => {
@@ -2169,16 +2159,7 @@ return`╭─❒ 「 Random Cewe 」
 
 exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
-├ My God
-├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
-├ Penyedia Module
+├ DamarBotz
 ╰❒ And All Support
 `
 }
